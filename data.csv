@@ -1,0 +1,15 @@
+Umur,Gaji,Status,Hutang,Beli Laptop
+<=30,tinggi,single,punya,tidak
+<=30,tinggi,single,tidak,tidak
+30-40,tinggi,single,punya,iya
+>40,sedang,single,punya,iya
+>40,rendah,menikah,punya,iya
+>40,rendah,menikah,tidak,tidak
+30-40,rendah,menikah,tidak,iya
+<=30,sedang,single,punya,tidak
+<=30,rendah,menikah,punya,iya
+>40,sedang,menikah,punya,iya
+<=30,sedang,menikah,tidak,iya
+30-40,sedang,single,tidak,iya
+30-40,tinggi,menikah,punya,iya
+>40,sedang,single,tidak,tidak
